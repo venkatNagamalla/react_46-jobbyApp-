@@ -1,0 +1,16 @@
+.margin-top {
+  margin-top: 20px;
+}
+
+.similar-job-card {
+  background-color: #202020;
+  margin-bottom: 20px;
+  padding: 30px 15px 30px 15px;
+  border-radius: 8px;
+}
+
+@media screen and (min-width: 768px) {
+  .similar-job-card {
+    margin-right: 15px;
+  }
+}

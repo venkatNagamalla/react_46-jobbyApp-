@@ -1,0 +1,33 @@
+.filter-heading {
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 450;
+  margin-bottom: 10px;
+}
+
+.input {
+  height: 18px;
+  width: 18px;
+  margin-right: 10px;
+}
+
+.filter-input-container {
+  margin-bottom: 15px;
+  display: flex;
+  align-items: center;
+}
+
+.label {
+  color: #f1f5f9;
+  font-size: 15px;
+}
+
+.filter-container {
+  margin-left: 5px;
+  margin-top: 20px;
+}
+
+.filters-page-container {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
